@@ -1,4 +1,4 @@
-### Doing (some) SICP exercises
+### Doing (some) [SICP](http://mitpress.mit.edu/sicp/) exercises
 
 And sharing/storing them with Github.
 
